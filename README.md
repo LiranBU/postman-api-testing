@@ -8,7 +8,6 @@ This repository contains API testing projects created using Postman for Trello A
 - REST API
 - JSON
 - JavaScript
-- GitHub
 
 ## Test Coverage
 - CRUD Operations
